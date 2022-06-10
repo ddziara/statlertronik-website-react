@@ -14,7 +14,7 @@
 
   # Default build command.
   #command = "CI= npm run build"
-  command = 'echo "$NAME"'
+  command = 'echo "$NODE_END"'
 
 [[redirects]]
   from = "/*"
