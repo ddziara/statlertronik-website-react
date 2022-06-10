@@ -13,8 +13,7 @@
   publish = "build/"
 
   # Default build command.
-  #command = "CI= npm run build"
-  command = 'echo "$NODE_ENV"'
+  command = "npm run build"
 
 [[redirects]]
   from = "/*"
